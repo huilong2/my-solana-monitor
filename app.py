@@ -10,7 +10,7 @@ st.markdown("""
     .stCode { background-color: #1e1e1e !important; color: #00ff00 !important; }
     .stButton>button { width: 100%; border-radius: 5px; }
     </style>
-    """, unsafe_allow_name_allowed=True)
+    """, unsafe_allow_html=True)
 
 st.title("🚀 Solana 聪明钱监控看板")
 
